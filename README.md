@@ -18,9 +18,9 @@ Java是一门流行且强大的编程语言，拥有许多优点：
 
 本项目包含以下部分：
 
-- **代码示例**：在`src`目录中，你可以找到一些Java语言和面向对象编程的代码示例，每个示例都附带详细的注释，便于理解。
+- **画图软件**：在[graphicsDrawing](https://github.com/ShiyuBanzhou/-JAVA/tree/main/graphicsDrawing)目录中，你可以找到一些Java语言和面向对象编程的代码示例，每个示例都附带详细的注释，便于理解。
 
-- **学习笔记**：在`notes`目录中，记录了我在学习Java与面向对象程序设计过程中的心得和体会，供你参考。
+- **学生管理系统**：在[studentManagementSystem](https://github.com/ShiyuBanzhou/-JAVA/tree/main/studentManagementSystem)目录中，记录了我在学习Java与面向对象程序设计过程中的心得和体会，供你参考。
 
 ## 如何贡献
 
